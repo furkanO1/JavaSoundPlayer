@@ -1,15 +1,14 @@
 # JavaSoundPlayer
 
-# TR 
+**TR** 
 Java uygulamanız için sesler çaldırmak için bu api'yi kullanabilirsiniz. 
 
-# EN:
+**EN**
 You can use this api to play sounds for your Java application.
 
-# Usage
-
+**Example**
 Play From File
-`
+```java
 package main;
 
 import net.furkanO1.main.Player;
@@ -21,11 +20,10 @@ static void main(String[] args){
 	  Player.playFromFile(file);
   }
 }
-
-`
+```
 
 Play From Web
-`
+```java
 package main;
 
 import net.furkanO1.main.Player;
@@ -37,5 +35,4 @@ public class Player {
     }
 }
 
-
-`
+```
