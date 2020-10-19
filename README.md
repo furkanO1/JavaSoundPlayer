@@ -12,7 +12,7 @@
 
 **Example**
 
-Play From File
+- Play From File Url
 ```java
 package main;
 
@@ -27,7 +27,7 @@ public class Player {
 }
 ```
 
-Play From Web
+- Play From Web Url
 ```java
 package main;
 
