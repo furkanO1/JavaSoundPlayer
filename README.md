@@ -20,10 +20,10 @@ import net.furkanO1.main.Player;
 
 public class Player {
 
-static void main(String[] args){
-    File file = new File("test.wav");
-    Player.playFromFile(file);
-  }
+    static void main(String[] args){
+        File file = new File("test.wav");
+        Player.playFromFile(file);
+      }
 }
 ```
 
